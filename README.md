@@ -1,6 +1,6 @@
 # Digital Tool Management Application
 
-Welcome to the GitHub repository for the Digital Tool Management (DTM) application! This project is designed to streamline the way professionals manage, share, and discover digital tools across various industries. Our goal is to build a robust, user-friendly platform that not only simplifies tool management but also fosters a community of collaboration and innovation.
+Welcome to the GitHub repository for the Digital Tool Management (DTM) application My Tool Box! This project is designed to streamline the way professionals manage, share, and discover digital tools across various industries. Our goal is to build a robust, user-friendly platform that not only simplifies tool management but also fosters a community of collaboration and innovation.
 
 ## Key Features
 
@@ -19,14 +19,20 @@ Welcome to the GitHub repository for the Digital Tool Management (DTM) applicati
 
 ## Quick Links
 
-- [**BENCHMARK**](BENCHMARK.md): Dive into a detailed benchmark analysis comparing our application to existing solutions.
-- [**SURVEY**](SURVEY.md): Check out the surveys designed to gather insights from potential users and refine our application.
-- [**WHITEPAPER**](WHITEPAPER.md): Read our comprehensive whitepaper detailing the technology, features, and roadmap of our application.
+- [**BENCHMARK**](.docs/BENCHMARK.md): Dive into a detailed benchmark analysis comparing our application to existing solutions.
+- [**SURVEY**](.docs/SURVEY.md): Check out the surveys designed to gather insights from potential users and refine our application.
+- [**WHITEPAPER**](.docs/WHITEPAPER.md): Read our comprehensive whitepaper detailing the technology, features, and roadmap of our application.
 - [**Figma Designs**](https://www.figma.com/design/zr4sujIGHyWrObppsCKe6M/Untitled?node-id=0-1&t=F0vPHVYrWobbCm2x-1): Explore our interactive Figma prototypes to get a feel of the user experience.
 
 ## Getting Started
 
-Comming soon
+To set up the application, you can use the following Make to build Docker containers and launch all API services:
+
+```bash
+make run
+```
+
+You will need a .env file in the .docker directory and an individual .env file in each API directory. These files should contain all the environment variables required by the Docker containers and each microservice, respectively
 
 ## How to Contribute
 
