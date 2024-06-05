@@ -19,9 +19,9 @@ Welcome to the GitHub repository for the Digital Tool Management (DTM) applicati
 
 ## Quick Links
 
-- [**BENCHMARK.md**](BENCHMARK.md): Dive into a detailed benchmark analysis comparing our application to existing solutions.
-- [**SURVEY.md**](SURVEY.md): Check out the surveys designed to gather insights from potential users and refine our application.
-- [**WHITEPAPER.md**](WHITEPAPER.md): Read our comprehensive whitepaper detailing the technology, features, and roadmap of our application.
+- [**BENCHMARK**](BENCHMARK.md): Dive into a detailed benchmark analysis comparing our application to existing solutions.
+- [**SURVEY**](SURVEY.md): Check out the surveys designed to gather insights from potential users and refine our application.
+- [**WHITEPAPER**](WHITEPAPER.md): Read our comprehensive whitepaper detailing the technology, features, and roadmap of our application.
 - [**Figma Designs**](https://www.figma.com/design/zr4sujIGHyWrObppsCKe6M/Untitled?node-id=0-1&t=F0vPHVYrWobbCm2x-1): Explore our interactive Figma prototypes to get a feel of the user experience.
 
 ## Getting Started
