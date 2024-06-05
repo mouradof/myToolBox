@@ -1,0 +1,1 @@
+// call navbar and footer except login and register

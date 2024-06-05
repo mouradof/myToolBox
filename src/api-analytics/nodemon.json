@@ -1,0 +1,5 @@
+{
+    "watch": ["src", "config.js", "index.js", "knexfile.js", "prepareRoutes.js"],
+    "ext": "cjs,mjs,js,jsx,json"
+  }
+  
